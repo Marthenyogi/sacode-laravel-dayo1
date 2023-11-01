@@ -1,2 +1,1 @@
-# sacode-laravel-dayo1
-pertemuan pertama kelas laravel sacode
+# sacode - belajar day 01
